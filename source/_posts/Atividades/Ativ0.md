@@ -1,6 +1,8 @@
 title: Método de Lagrange
 code: ACT001
 ---
+## Método de  Lagrange
+
 ![Lagrange](/images/Ativ8-images.jpg)
 
     function lagrangeInterpolation(x, y, targetX) {

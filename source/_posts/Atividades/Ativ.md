@@ -1,6 +1,8 @@
 title: Método de Newton
 code: ACT001
 ---
+## Método de Newton
+
 ![Newton](/images/Ativ9-images.jpg)
 
     function newtonInterpolation(x, y, targetX) {
