@@ -3,6 +3,8 @@ code: ACT001
 ---
 ## Método de  Lagrange
 
+## Código para testar: https://replit.com/join/ceftgbeiev-caio-fornaciari
+
 ![Lagrange](/images/Ativ8-images.jpg)
 
     function lagrangeInterpolation(x, y, targetX) {

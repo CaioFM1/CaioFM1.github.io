@@ -3,6 +3,8 @@ code: ACT001
 ---
 ## Método de Newton
 
+## Código para testar: https://replit.com/join/ceftgbeiev-caio-fornaciari
+
 ![Newton](/images/Ativ9-images.jpg)
 
     function newtonInterpolation(x, y, targetX) {
